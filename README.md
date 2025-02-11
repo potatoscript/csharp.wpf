@@ -8,6 +8,7 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 |---------------------------------------|---------------------------------------------|---------------------------------------------------------------|
 | **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Getting-Started) |
 | **MVVM Architecture**                | Understanding and applying MVVM             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/MVVM-Architecture) |
+| **UI Enhancements**                   | Improving UI design and responsiveness      | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/UI) |
 | **Animation in WPF**                 | Adding animations for a dynamic UI          | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Animation-in-WPF) |
 | **Checkbox Command Binding**         | Implementing command bindings for checkboxes | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Checkbox_Command_Binding) |
 | **Commands in WPF**                  | Implementing and using commands             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Commands-in-WPF) |
@@ -32,7 +33,6 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 | **StreamReader & File Handling**      | Efficient file reading techniques           | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/StreamReader-FileHandling) |
 | **StreamReader vs File.ReadAllText**  | Comparing file reading techniques           | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/StreamReader_File.ReadAllText) |
 | **Styling and Templating**           | Customizing WPF controls and templates      | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Styling-and-Templating) |
-| **UI Enhancements**                   | Improving UI design and responsiveness      | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/UI) |
 
 ## 🍔 How to Use This Repository
 
