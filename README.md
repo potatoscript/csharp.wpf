@@ -6,6 +6,7 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 
 | 🍔🌟 Topic                              | 📚 Description                              | 🔗 Wiki Page                                                   |
 |---------------------------------------|---------------------------------------------|---------------------------------------------------------------|
+| **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Getting-Started) |
 | **Animation in WPF**                 | Adding animations for a dynamic UI          | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Animation-in-WPF) |
 | **Checkbox Command Binding**         | Implementing command bindings for checkboxes | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Checkbox_Command_Binding) |
 | **Commands in WPF**                  | Implementing and using commands             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Commands-in-WPF) |
@@ -16,7 +17,6 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 | **Debugging and Performance**        | Tips for debugging and optimizing WPF apps  | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Debugging-and-Performance) |
 | **Deleting JSON Data**                | Handling JSON deletions properly            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/DeleteJson) |
 | **Deploying WPF Applications**       | Packaging and deploying your app            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Deploying-WPF-Applications) |
-| **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Getting-Started) |
 | **Integrating with Databases**       | Connecting WPF to SQLite/PostgreSQL         | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Database-Integration) |
 | **Interface and Properties**          | Understanding interface and property usage  | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Interface-Properties) |
 | **JSON File Handling**                | Working with JSON data in WPF               | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/HandlingJson) |
