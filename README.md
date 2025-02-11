@@ -7,6 +7,7 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 | 🍔🌟 Topic                              | 📚 Description                              | 🔗 Wiki Page                                                   |
 |---------------------------------------|---------------------------------------------|---------------------------------------------------------------|
 | **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Getting-Started) |
+| **MVVM Architecture**                | Understanding and applying MVVM             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/MVVM-Architecture) |
 | **Animation in WPF**                 | Adding animations for a dynamic UI          | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Animation-in-WPF) |
 | **Checkbox Command Binding**         | Implementing command bindings for checkboxes | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Checkbox_Command_Binding) |
 | **Commands in WPF**                  | Implementing and using commands             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Commands-in-WPF) |
@@ -23,7 +24,6 @@ Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate g
 | **Layouts and Panels**               | Understanding WPF layouts and design        | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Layouts-and-Panels) |
 | **Loading & Binding JSON Data in XAML** | Efficient JSON data binding in XAML        | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Loading_Binding_Json) |
 | **Login and Authentication**         | Building login/logout functionality         | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Login-and-Authentication) |
-| **MVVM Architecture**                | Understanding and applying MVVM             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/MVVM-Architecture) |
 | **PreviewKeyDown Event**              | Prevent accidental row deletion             | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/PreviewKeyDown-Event) |
 | **Resource Management**              | Managing resources and localization         | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Resource-Management) |
 | **ResourceComparisonConverter**       | Enabling DynamicResource in Style.Trigger   | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/ResourceComparisonConverter) |
