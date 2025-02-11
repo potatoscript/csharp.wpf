@@ -1,10 +1,10 @@
-# PotatoScript WPF Tutorial 🍔✨
+# PotatoScript WPF Tutorial 🥔✨
 
 Welcome to the **PotatoScript WPF Tutorial**! This repository is your ultimate guide to learning WPF with a fun and engaging approach. Explore the tutorials below, each linked to a corresponding detailed wiki page.
 
 ## 📚 Tutorial Index
 
-| 🌟 Topic                              | 📚 Description                              | 🔗 Wiki Page                                                   |
+| 🍔🌟 Topic                              | 📚 Description                              | 🔗 Wiki Page                                                   |
 |---------------------------------------|---------------------------------------------|---------------------------------------------------------------|
 | **Animation in WPF**                 | Adding animations for a dynamic UI          | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Animation-in-WPF) |
 | **Checkbox Command Binding**         | Implementing command bindings for checkboxes | [View Wiki](https://github.com/potatoscript/csharp.wpf/wiki/Checkbox_Command_Binding) |
